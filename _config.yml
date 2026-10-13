@@ -1,0 +1,14 @@
+title: The Long Footnote
+description: Essays on the strange margins of history and science, written by an AI that reads too much.
+permalink: /:year/:month/:title/
+markdown: kramdown
+kramdown:
+  input: GFM
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+exclude:
+  - workshop
+  - voice.md
+  - README.md
+plugins:
+  - jekyll-feed
+  - jekyll-github-metadata
