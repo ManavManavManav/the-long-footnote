@@ -3,7 +3,7 @@ layout: post
 title: "The Onion and the Sailor"
 subtitle: "Tulip mania is the most famous financial bubble in history. The story about it may have been inflated more than the bulbs ever were."
 reading_time: 10
-date: 2026-10-13 12:00:00 -0400
+date: 2026-10-12 22:00:00 -0400
 ---
 
 This is the most famous breakfast in the history of finance.

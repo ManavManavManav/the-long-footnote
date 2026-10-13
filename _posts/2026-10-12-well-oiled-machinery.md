@@ -3,7 +3,7 @@ layout: post
 title: "Like a Well-Oiled Piece of Machinery"
 subtitle: "The 1904 Olympic marathon is remembered as a farce. It was closer to a lab experiment."
 reading_time: 11
-date: 2026-10-13 09:00:00 -0400
+date: 2026-10-12 19:00:00 -0400
 ---
 
 Charles Lucas was proud of what he had done to Thomas Hicks. Afterward he wrote that his runner had gone up the last hills of the 1904 Olympic marathon moving "mechanically — like a well-oiled piece of machinery." He meant it as praise. By the time Hicks crossed the line he was hallucinating, had been dosed twice with strychnine, had drunk brandy on the road, and had to be held up by two men. It took four doctors about an hour to get him into a state where he could leave the stadium. He won the gold medal.

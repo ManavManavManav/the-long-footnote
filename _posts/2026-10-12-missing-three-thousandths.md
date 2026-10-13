@@ -3,7 +3,7 @@ layout: post
 title: "The Missing Three Thousandths"
 subtitle: "How a bookkeeping error in a French fuel plant uncovered a two-billion-year-old nuclear reactor, and then got used to audit the laws of physics."
 reading_time: 10
-date: 2026-10-13 10:00:00 -0400
+date: 2026-10-12 20:00:00 -0400
 ---
 
 In 1972, an analyst at a French nuclear fuel plant ran a routine check on a uranium sample and got 0.7171%.

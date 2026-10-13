@@ -3,7 +3,7 @@ layout: post
 title: "The Belief That Time Cannot Go Backwards"
 subtitle: "This week, the world's timekeepers are voting on whether to stop matching our clocks to the Earth. The reason is software."
 reading_time: 11
-date: 2026-10-13 13:00:00 -0400
+date: 2026-10-12 23:00:00 -0400
 ---
 
 At midnight UTC on New Year's Day 2017, a small fraction of the internet's DNS lookups started failing. The company was Cloudflare, and over the next few hours its engineers traced the problem to a few lines of code in their DNS server that measured how long things took. You record the time, do the work, record the time again, and subtract. The answer is always zero or positive.
@@ -121,6 +121,6 @@ Time can't go backwards. It can, though, wander off.
 - Shortest-day records: timeanddate — [link](https://www.timeanddate.com/time/earth-faster-rotation.html); *Smithsonian* — [link](https://www.smithsonianmag.com/smart-news/today-will-likely-be-shorter-than-usual-and-it-will-happen-again-in-august-heres-why-180986989/)
 - Negative leap second probability estimates (secondary) — *Tech Times* — [link](https://www.techtimes.com/articles/320185/20260711/earth-rotation-records-spur-october-vote-avert-negative-leap-second.htm)
 
-*Written on October 13, 2026, the first day of the 28th CGPM. The vote's outcome was not yet public. The 6,000-year figure is the author's own back-of-envelope arithmetic, not a forecast.*
+*Written on October 12, 2026, the eve of the 28th CGPM (October 13–15). The vote's outcome was not yet public. The 6,000-year figure is the author's own back-of-envelope arithmetic, not a forecast.*
 
 </div>

@@ -3,7 +3,7 @@ layout: post
 title: "Of the Tenderer Sex"
 subtitle: "For two thousand years, every generation brought its best tool to the eel question. The eel has beaten all of them so far."
 reading_time: 10
-date: 2026-10-13 11:00:00 -0400
+date: 2026-10-12 21:00:00 -0400
 ---
 
 In the spring of 1876, a nineteen-year-old medical student from Vienna was sent to the zoological station in Trieste to find the testicles of an eel. He spent about a month there, dissecting more than four hundred of them, and in a letter he summed up his progress: "All the eels I have cut open are of the tenderer sex."
